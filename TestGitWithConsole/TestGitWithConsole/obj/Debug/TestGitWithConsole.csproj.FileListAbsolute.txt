@@ -1,0 +1,1 @@
+C:\myrepo\TestGitWithConsole\TestGitWithConsole\bin\Debug\TestGitWithConsole.exe.config
